@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug"/>
+				<Option working_dir="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug"/>
+				<Option working_dir="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SystemyOperacyjne">
-				<Option output="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/SystemyOperacyjne" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug"/>
+				<Option output="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/SystemyOperacyjne" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -40,15 +40,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemyOperacyjne"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemyOperacyjne"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SystemyOperacyjne/fast">
-				<Option output="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/SystemyOperacyjne" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug"/>
+				<Option output="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/SystemyOperacyjne" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -59,27 +59,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemyOperacyjne/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 SystemyOperacyjne/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug"/>
+				<Option working_dir="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/epat/Dokumenty/Github/SystemyOperacyjne/main.c">
+		<Unit filename="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/main.c">
 			<Option target="SystemyOperacyjne"/>
 		</Unit>
-		<Unit filename="/home/epat/Dokumenty/Github/SystemyOperacyjne/CMakeLists.txt">
+		<Unit filename="/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

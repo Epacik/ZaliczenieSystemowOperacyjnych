@@ -1,4 +1,4 @@
-/opt/jetbrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/epat/Dokumenty/Github/SystemyOperacyjne
+/opt/jetbrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady
 -- The C compiler identification is GNU 10.1.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/epat/Dokumenty/Github/SystemyOperacyjne/cmake-build-debug
+-- Build files have been written to: /home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug
