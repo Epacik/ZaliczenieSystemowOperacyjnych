@@ -1,0 +1,100 @@
+Szanowni Państwo,
+
+Pragne przed wszsytkim przywitać się ponownie po dłuższej przerwie 
+spowodowoanej wiadomymi okolicznościami. Z powodu dość dużej 
+nieprzewidywalności i dynamicznie zmieniajacych się zewnetrznych 
+uregulowań przerwa przeciagnęła się aż do teraz. Paradoksalnie wydaje 
+się, że to opóźnienie okazało się korzystne, gdyż wreszcie pojawiły się 
+sygnały wskazujące na możliwy rozwój sytuacji w najbliższej przyszłości, 
+co umozliwija jakieś bardziej racjonalne planowanie. Ostatni komunikat 
+Pana Rektora zawiera stwierdzenia, z których wynika, iż prawie na pewno 
+rok akademicki zostanie wydłużony o miesiąc, do 15 lipca, a Uniwerstytet 
+wznowi swoją działalność z początkiem czerwca. To daje nam pewną swobodę 
+w kształtowaniu harmonogramu naszych przyszłych zajęć.  W szczeglnośći 
+pozwalają na poświęcenie im jednej tylko jednostki ćwiczeń (1.5 h) w 
+ciągu tygodnia, a nie dwóch, jak poprzednio zamierzałem. W dalszym 
+ciągu jednak pozostają w mocy ustalenia co do formuły prowadzenia cwiczeń. 
+Przynajmniej w poczatkowym okresie będa one przeprowadzane jako edukacja 
+zdalna, aczkolwiek według schematu nieco zmodyfikowanego w stosunku do 
+poprzednich naszych ustaleń. Pojawiła się też nadzieja, że przynajmnej 
+kilka ostatnich spotkań w lipcu uda się nam odbyc w warunkach pracowni 
+rzeczywistej.
+
+
+Co zaś do sposobu prowedzenia najbliższych naszych działań, biorąc pod 
+uwagę takie czynniki jak liczebość grup, możliwości czasowe, właściwości 
+sprzętu i aplikacji możliwych do użycia, wydajnosc łącz itp, uastaliłem, 
+że najkorzystniejszym rozwiązaniem będzie praca wg schematu, który 
+pewnie można by określić jako 'hybrydowy'.
+
+Zgodnie z nim, tak jak to ustaliliśmy, poprzednio zajęcia będa 
+prowadzone z zastosowaniem aplikacji TEAMS oraz dodatkowo emulatora 
+putty do pracy z systemem dla tych, którzy nie mają zainstalowanego 
+bardziej bezpośredniego dostępu do konta na zon12. Obustronną 
+komunikację natomiast postanowiłem całkowicie prowadzić przy 
+zastosowaniu tradycyjnej poczty elektronicznej.  Uniezależnia to nas od 
+zdarzających się wciąż problemów z komunikacją przez TEAMS. W związku z 
+tym, a także dla usprawnienia toku pracy, uznałem dodatkowo, iż 
+najwygodniejszym sposobem dostarczenia studentom materialu dydaktycznego 
+będą pliki wideo zawierające kolejne prelekcje i demonstracje cwiczeń 
+przygotowane uprzednio off-line. Ten material bedzie wykonany przy 
+uzyciu TEAMS przez prowadzącego, a każdy student otrzyma go w formie 
+pliku do indywidualenego wykorzystania na dogodnej dla niego platformie. 
+Oznacza to zrezygnowanie z bezposredniej interakcji w czasie realnym, 
+wczasie tzw, spotkań, z których rezygnujemy. Jak uczy moje 
+doświadczenie, byłaby ona i tak ograniczona lub wrecz niemożliwa przy 
+tak licznych grupach. Oznacza to zatem, co nastepuje:
+
+1) Rezygnujemy z bezpośredniej komunikacji on line. Termin zajęć: 
+poniedzialki 13.00 staje się zatem tylko umowną jednostką 
+"rozliczeniowa" - studenci będą mogli (musięli!) zapoznac się z nagranym 
+materialem zajęć w czasie dla siebie dogodnym w domu z plików dosłanych 
+e-pocztą.
+
+2) Prezentacje beda dostarczane na adres kazdego studenta w poniedzialki 
+do godziny 13.00 (w najbliższy poniedziałek może być niewielkie 
+opóźnienie). Przewiduję też wkrótce udostępnienie ich przez platforme MS 
+Stream/TEAMS.
+
+3) Materiały będą zwierały "zadania domowe" do samodzielnego wykonania. 
+Po ich opracowaniu wynki muszą być dostarczone do prowadzącego w formie 
+załącznika do e-maila (na adres: glaz@zon12.physd.amu.edu.pl) w terminie 
+do piątku następującego po poniedziałkowych "zajęcach". Nazwa pliku 
+powinna miec postać: studeNR_aa.bb.cc, gdzie NR jest numerem przypisanym 
+do indywidualnych kont na zon12, zaś aa.bb.cc oznacza datę odbywania 
+"zajęć" poniedziałkowych. Na przkład dla ćwiczeń odbytych 27.04.20 
+byłoby to: stude50_27.04.20 dla studenta posiadającego konto stude50 na 
+zon12.
+
+4) WAŻNE: zadania domowe będą jednym z elementów decydujących o 
+zliczeniu przedmiotu (drugim będzie najprawdopodobniej jakiś prosty 
+test) i swoistym dowodem "obecnosci" na ćwiczeniach. Należy zatem 
+koniecznie przysłać wymieniony wyżej plik, nawet jeżeli rozwiązanie 
+problemu będzie niekompletne, lub nie będziemy pewni jego poprawności!
+
+5) Wszelka komunikacja z prowadzącym będzie się odbywała poprzez podany 
+wyżej aders e-mailowy. Zachęcam do korzystania z tej możliwości w celu 
+zasygnalizowania problemów technicznych lub organizacyjnych, wyjaśnienia 
+wątpliwości, skonsultowania się w sprawach merytorycznych, zadań ... 
+itd.
+
+6) Istotnym elementem pracy własnej powinno też być stranne 
+prześledzenie toku prelekcji i towarzyszącyh zadań oraz sposobu ich 
+rozwiązania. Dobrą metodą jest spróbowanie swoich sił bez zaglądania do 
+analizy prezentowaniej w nagraniu i dopiero potem konfrontowanie 
+odpowiedzi własnej z podaną przez prowadzącego.
+
+7) O ewentualnych zmianach w sposobie prowadzenia zajęć będą Państwo 
+informowania w miarę rozwoju sytuacji.
+
+Zyczę zdrowia,
+W. Glaz
+
+
+
+
+ 
+
+
+
+
