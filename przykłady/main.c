@@ -3,19 +3,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <locale.h>
 
 int main(void) {
-    set_locale(0, "pl_PL");
+    setlocale(0, "pl_PL");
 
-    //Otwieranie pliku
-    int fdesc = open("testowyPlik.txt", O_WRONLY | O_APPEND);
+    //Otwieranie pliku do zapisu i tworzenie go jeśli nie istniał wcześniej
+    int fdesc = open("./testowyPlik.txt", O_WRONLY | O_CREAT);
     if (fdesc == -1) {
-        puts("Błąd odczytu pliku");
+        puts("Błąd otwarcia pliku");
         return 1;
     }
     puts("Pomyślnie otwarto plik");
 
-    //Zapis do pliku
+#pragma region Zapis do pliku
     char buf[] = "Jakiś tekst do zapisania w pliku\0";
     int size = strlen(buf);
 
@@ -25,18 +26,30 @@ int main(void) {
         puts("Wystąpił błąd zapisu do pliku");
         return 1;
     }
+#pragma endregion
+    
+    //zamykanie pliku
+    res = close(fdesc);
+
+    //otwieranie pliku do odczytu
+    fdesc = open("./testowyPlik.txt", O_RDONLY );
 
     //Sprawdzanie pozycji w pliku
-    int position = lseek(fdesc, size, SEEK_CUR);
-    puts("Obecna pozycja: " );
-    puts(position);
+    int position = lseek(fdesc, 0, SEEK_CUR);
+    puts("Obecna pozycja:" );
+    printf("%d\n", position);
 
-    //Odczytywanie z pliku
-    char* readed = malloc(sizeof(char) * size);
+#pragma region Odczytywanie z pliku
+    char* readed = malloc(sizeof(char) * size + 1 );
 
     res = read(fdesc, readed, size);
-
+    readed[size] = '\0';
+#pragma endregion
+    puts(readed);
 
     free(readed);
+
+    //zamykanie pliku
+    res = close(fdesc);
     return 0;
 }

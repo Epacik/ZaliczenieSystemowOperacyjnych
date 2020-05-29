@@ -1,2 +1,6 @@
 
 */.idea/*
+przykłady/cmake-build-debug/SystemyOperacyjne
+*.o
+*.internal
+*.includecache
