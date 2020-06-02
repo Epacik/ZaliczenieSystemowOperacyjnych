@@ -3,4 +3,5 @@ project(SystemyOperacyjne C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(SystemyOperacyjne main.c)
+add_executable(fileAccess fileAccess.c)
+add_executable(directoryAccess directoryAccess.c)
