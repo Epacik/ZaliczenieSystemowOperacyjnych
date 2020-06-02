@@ -1,3 +1,0 @@
-/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/CMakeFiles/SystemyOperacyjne.dir
-/home/epat/Dokumenty/Github/ZaliczenieSystemowOperacyjnych/przykłady/cmake-build-debug/CMakeFiles/edit_cache.dir
