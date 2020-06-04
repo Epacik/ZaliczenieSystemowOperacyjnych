@@ -4,6 +4,20 @@
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
+#include <errno.h>
+
+extern int errno ;
+
+void ErrLog(){
+    int errnum = errno;
+    printf("Kod błędu: %d", errnum);
+    printf((char*)strerror( errnum ));
+}
+
+void ErrLogAndClear(){
+    ErrLog();
+    errno = 0;
+}
 
 int main(void) {
     setlocale(0, "pl_PL");
