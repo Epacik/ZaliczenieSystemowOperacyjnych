@@ -31,10 +31,7 @@ int main(void) {
 
     errno = 0;
 
-    //odczytywanie obecnego katalogu
-    char currDir[PATH_MAX];
-    getcwd(currDir, sizeof(currDir));
-    printf("Obecny katalog\n%s\n", currDir);
+    
 
     //tworzenie katalogu
     int res = mkdir("./jakisKatalog", S_IRUSR | S_IWUSR | S_IXUSR);
@@ -71,6 +68,12 @@ int main(void) {
     }
 
     errno = 0;
+
+    //odczytywanie obecnego katalogu
+    char currDir[PATH_MAX];
+    getcwd(currDir, sizeof(currDir));
+    printf("Obecny katalog\n%s\n", currDir);
+
     // zmiana katalogu
     res = chdir("./jakisKatalog");
     if(res == -1){
