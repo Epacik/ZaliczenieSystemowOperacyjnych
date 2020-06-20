@@ -79,5 +79,6 @@ int main(void) {
         ErrLogAndClear();
         return -1;
     }
+    
     return 0;
 }

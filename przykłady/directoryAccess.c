@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,6 +6,7 @@
 #include <errno.h>
 #include <sys/stat.h>
 #include <sys/types.h>
+#include <unistd.h>
 #include <dirent.h>
 #include <libgen.h>
 #include <limits.h>
@@ -83,4 +83,6 @@ int main(void) {
     //sprawdzanie czy katalog rzeczywiście został zmieniony
     getcwd(currDir, sizeof(currDir));
     printf("Obecny katalog\n%s\n", currDir);
+
+    return 0;
 }
