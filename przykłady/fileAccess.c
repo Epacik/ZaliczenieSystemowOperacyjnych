@@ -6,14 +6,16 @@
 #include <locale.h>
 #include <errno.h>
 
-extern int errno ;
+extern int errno;
 
+// Funkcja wypisująca wiadomość błędu na podstawie jego kodu
 void ErrLog(){
     int errnum = errno;
     printf("Kod błędu: %d", errnum);
     printf((char*)strerror( errnum ));
 }
 
+// Funkcja wypisująca wiadomość błędu i czyszcząca errno
 void ErrLogAndClear(){
     ErrLog();
     errno = 0;

@@ -10,7 +10,6 @@
 #include <dirent.h>
 #include <libgen.h>
 #include <limits.h>
-#include <unistd.h>
 
 extern int errno;
 
@@ -57,6 +56,7 @@ int main(void) {
     puts("Zawartość katalogu:\n");
     while ((dp = readdir (dir)) != NULL){
         printf("%s\n",dp->d_name);
+        free(dp);
     }
 
     if(dp == NULL && errno != 0){
